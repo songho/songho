@@ -1,11 +1,9 @@
-> #### Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.
-
-- Ludwig van Beethoven
-
-
 ![Skull Image](/skull13.png?raw=true "grid")
 
-### Hi there 👋
+> ### Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.
+> - Ludwig van Beethoven
+
+
 
 <!--
 **songho/songho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
