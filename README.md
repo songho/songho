@@ -1,7 +1,7 @@
 ![Skull Image](/skull13.png?raw=true "grid")
 
 > ### Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.
-> - Ludwig van Beethoven
+> -- Ludwig van Beethoven
 
 
 
