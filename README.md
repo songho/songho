@@ -3,7 +3,7 @@
 - Ludwig van Beethoven
 
 
-![Alt text](/master/skull13.png?raw=true "grid")
+![Alt text](master/skull13.png?raw=true "grid")
 
 ### Hi there 👋
 
