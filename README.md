@@ -11,7 +11,7 @@
 > -- Ludwig van Beethoven
 
 [![mobile image](/mobile03.png)](https://ltsa.sheridancollege.ca/apps/3d-imaging/2022.html)
-![Skull Image](/skull13.png)
+![skull image](/skull13.png)
 
 
 ***
