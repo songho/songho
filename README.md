@@ -7,12 +7,13 @@
 ![test badge](https://badgen.net/badge/icon/apple?icon=apple&label)
 ![test badge](https://badgen.net/badge/icon/windows?icon=windows&label) 
 
-> ### *Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine*.
-> -- Ludwig van Beethoven
-
 [![mobile image](/mobile03.png)](https://ltsa.sheridancollege.ca/apps/3d-imaging/2022.html)
 ![skull image](/skull13.png)
 
+> ### *Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine*.
+> -- Ludwig van Beethoven
+
+![qr code](/qr-code.png)
 
 ***
 
