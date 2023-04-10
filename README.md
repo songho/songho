@@ -1,4 +1,8 @@
 # [songho.ca](http://www.songho.ca)
+![test badge](https://badgen.net/badge/hello/world/green?icon=github) 
+![test badge](https://badgen.net/badge/icon/apple?icon=apple&label)
+![test badge](https://badgen.net/badge/icon/windows?icon=windows&label) 
+![test badge](https://github.com/songho/songho/actions/workflows/skull03.png/badge.svg)
 
 ![Skull Image](/skull13.png)
 
