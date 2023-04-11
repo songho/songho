@@ -1,5 +1,8 @@
 # [songho.ca](http://www.songho.ca)
 
+> ### *Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine*.
+> -- Ludwig van Beethoven
+
 ![test badge](https://badgen.net/badge/hello/world/red?icon=github)
 ![test badge](https://badgen.net/badge/release/v0.0.0/yellow?icon=github)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -9,9 +12,6 @@
 
 [![mobile image](/mobile03.png)](https://ltsa.sheridancollege.ca/apps/3d-imaging/compare2022.html)
 [![skull image](/skull13.png)](https://ltsa.sheridancollege.ca/apps/3d-imaging/compare2022.html)
-
-> ### *Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine*.
-> -- Ludwig van Beethoven
 
 ![qr code](/qr-code.png)
 
